@@ -1,8 +1,19 @@
+*.swp
+
 # Object files
 *.o
 *.ko
 *.obj
 *.elf
+
+# Binary files
+*.srec
+*.bin
+*.list
+
+# Dependency files
+*.d
+*.ds
 
 # Precompiled Headers
 *.gch
